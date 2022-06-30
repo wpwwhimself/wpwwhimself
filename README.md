@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Wojtek
+- 👀 I am mostly a musician but also I like everything related to coding
+- 🌱 I’m currently learning some ReactJS, Python, and Java
+- 📫 You can search me anywhere by typing /wpwwhimself/
+- Short one, I know. What else should I say?
