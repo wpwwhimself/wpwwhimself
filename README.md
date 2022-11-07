@@ -1,4 +1,4 @@
-# Hello and welcome to my repo! 😃
+# Hello and welcome to my repo! 
 
 My name's [Wojtek](http://wpww.pl) and I am mostly (though not widely) known for my contribution to 🎶 music: I play a few instruments 🎸, I am a member of a few bands 👥 and I commit a few songs 📝 But aside from that, I like coding stuff 🤓 there's something satisfying in typing magic words and seeing pretty things appear on screen 🧙‍♂️
 
